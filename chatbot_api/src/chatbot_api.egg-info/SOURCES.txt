@@ -1,0 +1,6 @@
+pyproject.toml
+src/chatbot_api.egg-info/PKG-INFO
+src/chatbot_api.egg-info/SOURCES.txt
+src/chatbot_api.egg-info/dependency_links.txt
+src/chatbot_api.egg-info/requires.txt
+src/chatbot_api.egg-info/top_level.txt
